@@ -2,7 +2,7 @@
 void insertarOrdenadoNuevo(int arreglo[], int nuevoArreglo[], int n, int num);
 void mostrarArreglo(int arreglo[],int n);
 int main() {
-	int arreglo[5]={1,2,3,4,5};
+	int arreglo[5]={1,3,6,9,15};
 	int nuevoArreglo[6];
 	int num;
 	printf("Arreglo original: ");
