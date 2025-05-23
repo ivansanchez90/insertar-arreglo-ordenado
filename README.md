@@ -21,9 +21,16 @@ Programa en C que inserta un elemento en un arreglo ordenado de tamaño 5, expan
 - Compilador C (gcc recomendado)
 - Sistema operativo Linux/Windows/macOS
 
-## Compilación y ejecución 🚀
+### Compilación y ejecución
 
 ```bash
-gcc -o insertar_ordenado main.c
-./insertar_ordenado
+# Clonar repositorio
+git clone https://github.com/ivansanchez90/insertar-arreglo-ordenado.git
+cd insertar-arreglo-ordenado
+
+# Compilar
+gcc -o insertarArregloOrdenado.c
+
+# Ejecutar
+./insertar
 ```
